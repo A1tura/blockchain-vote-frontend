@@ -1,0 +1,29 @@
+.home {
+  background-color: var(--backgroundColor);
+  height: 100%;
+}
+
+.rectangle-title {
+  font-weight: bold;
+  font-size: 7vh;
+
+  margin: 0;
+  text-align: center;
+}
+
+.rectangle-text {
+  text-align: center;
+
+  font-size: 2vh;
+}
+
+.create-button-div {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 10px;
+}
+
+.create-button-button {
+  padding: 10px 10px;
+  width: 20%;
+}

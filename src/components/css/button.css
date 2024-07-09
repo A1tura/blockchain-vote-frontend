@@ -1,0 +1,15 @@
+button {
+  background:
+    linear-gradient(#000000, #000000) padding-box,
+    linear-gradient(90deg, rgba(36, 255, 0, 1) 0%, rgba(173, 0, 255, 1) 100%) border-box;
+
+  color: white;
+  padding: 15% 45%;
+  border: 2px solid transparent;
+  border-radius: 15px;
+  display: inline-block;
+
+  font-weight: bold;
+
+  cursor: pointer;
+}
